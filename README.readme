@@ -1,3 +1,4 @@
-To install the program, simply run INSTALLER.py and the 
-executable file shall be in dist! You can move it wherever 
-you want and delete all other files once it is done.
+Instrictions for installation:
+  1: Make sure you have PyInstaller and Tkinter installed
+  2: Run the file INSTALLER.py to install the program
+  3: You can now move the Stopwatch.exe from dist and remove all of the other files!
